@@ -1,6 +1,6 @@
 # week4
 # Pacmen Move Horizontal
-## Project Discription
+## Project Description
 ### Insert the pacman image in the project using HTML.
 ### Adjust the image size using CSS.
 ### move the image using JS.
@@ -10,3 +10,5 @@
 ## Future Update
 ### Create more image inside the project
 ### Move that images in the different direction.
+## Click the link to view the output
+### https://masaniprakash.github.io/Pacman_moving_week4/
