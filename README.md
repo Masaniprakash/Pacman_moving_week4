@@ -1,4 +1,3 @@
-# week4
 # Pacmen Move Horizontal
 ## Project Description
 ### Insert the pacman image in the project using HTML.
